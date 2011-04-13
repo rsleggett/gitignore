@@ -2,15 +2,15 @@
 _ReSharper*
 
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+[Bb]in
+[Oo]bj
 
 # user settings
 *.user
 *.suo
 
 # if you have pictures, windows will likely create those annoying index files
-Thumbs.db
+[Tt]humbs.db
 
 # mstest test results
 TestResults
